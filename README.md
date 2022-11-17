@@ -3,7 +3,7 @@
 <img src="assets/img/latest.svg" style="margin-right: 5px;"> 
 <img src="assets/img/os.svg" style="margin-right: 5px;"> 
 <hr>
-<b>Displays the date of a Linkedin post in the page and the web console. Based on [the article by Ryan Benson](https://dfir.blog/tinkering-with-tiktok-timestamps/).</b>
+<b>Displays the date of a Linkedin post in the page and the web console. Based on <a href="https://dfir.blog/tinkering-with-tiktok-timestamps/" target="_blank">the article by Ryan Benson</a>.</b>
 </div></div>
 <br>
 
