@@ -4,7 +4,7 @@
 <img src="assets/img/os.svg" style="margin-right: 5px;"> 
 <hr>
 <b>Displays the date of a Linkedin post in the page and the web console. Based on [the article by Ryan Benson](https://dfir.blog/tinkering-with-tiktok-timestamps/).</b>
-</div>
+</div></div>
 <br>
 
 ## diffusion's date of a post (web-extention)
@@ -27,6 +27,7 @@ It is essential to open the page of the post alone (and not via the "Posts" tab 
 Then open the console, and copy/paste the code below to display the date of the post. 
 </div>
 <br>
+<div>
 
 ```console
 // convert linkedin postID in unix timestamp
