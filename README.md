@@ -9,7 +9,7 @@
 
 ## diffusion's date of a post (web-extention)
 
-Download the sources then unzip in the folder of your choice. In the Firefox browser, type the url : <a href="about:debugging#/runtime/this-firefox" target="_blank">about:debugging#/runtime/this-firefox</a> then click on the button "load temporary Add-on" and select any file present in the folder <i><b>linkedin-post-date</b></i>.
+Download the sources then unzip in the folder of your choice. In the Firefox browser, type the url : <a href="about:debugging#/runtime/this-firefox" target="_blank">about:debugging</a> then click on the button "load temporary Add-on" and select any file present in the folder <i><b>linkedin-post-date</b></i>.
 
 Once the Add-on is loaded, the dates will be automatically changed on the post page (see below)<br>
 <br>
